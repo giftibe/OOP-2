@@ -14,7 +14,8 @@ node Learnable.js
 You can change the inputs to see a different output
 
 # Execution for Animal.js
-Pictorial Reference
+Pictorial Reference: https://cdn1.byjus.com/wp-content/uploads/2019/04/Animal-Kingdom-Classification-of-Animal-Kingdom.png
+
                         HOW TO EXECUTE ANIMAL.JS CODE
                         
 FIRST:  Instantiate or create a new object of the preferred class
